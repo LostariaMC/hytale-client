@@ -1,0 +1,8 @@
+{
+  "local": true,
+  "serverId": "serverId",
+  "authApiUrl": "https://api.example.com",
+  "serverManagerApiUrl": "https://api.example.com",
+  "pubsubApiUrl": "https://api.example.com",
+  "pathDeviceToken": "/path/to/deviceToken"
+}

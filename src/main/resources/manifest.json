@@ -1,0 +1,19 @@
+{
+  "Group": "Lostaria",
+  "Name": "HytaleClient",
+  "Version": "1.0",
+  "Description": "Lostaria Server Client",
+  "Authors": [
+    {
+      "Name": "Erpriex",
+	  "Url": "https://www.erpriex.fr"
+    }
+  ],
+  "Website": "https://www.lostaria.fr",
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "ServerVersion": "*",
+  "Main": "fr.lostaria.hytaleclient.HytaleClient"
+}
